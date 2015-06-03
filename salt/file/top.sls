@@ -1,0 +1,6 @@
+
+base:
+  '*':
+    - epel
+    - gluster
+    - docker
