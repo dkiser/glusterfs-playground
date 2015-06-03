@@ -1,3 +1,8 @@
+# glusterfs-playground
+
+Quick playground for a 3 node Vagrant glusterfs cluster provisioned via Salt provisioner.
+
+# Having vboxfs mount problems?
 
 > Do following if you have vboxfs mount problems (and give it a few minutes)
 
